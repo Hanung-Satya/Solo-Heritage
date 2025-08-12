@@ -21,12 +21,14 @@ Through this website, visitors can explore:
 
 ## 📂 Folder Structure
 
+```
 Solo-Heritage/
 │
 ├── index.html        # Main page
 ├── styles/
 │   └── style.css     # CSS file for styling
 └── asset/            # Images and media files
+```
 
 ## 🛠️ Technologies Used
 
